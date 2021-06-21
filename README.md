@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hemalmeda
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently working on Jquery
 - 📫 How to reach me: contact me at gmail hemalmeda@gmail.com
 - If you want any projects contact me in the above gmail
 
