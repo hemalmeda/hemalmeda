@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: contact me at gmail hemalmeda@gmail.com
+- If you want any projects contact me in the above gmail
 
 <!---
 hemalmeda/hemalmeda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
